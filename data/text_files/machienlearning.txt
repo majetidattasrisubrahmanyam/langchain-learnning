@@ -1,0 +1,22 @@
+Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+Basic ML Workflow:
+
+Collect Data
+Clean and Prepare Data
+Train a Model
+Test the Model
+Make Predictions
+
+Example:
+
+Input: Previous house prices and features
+ML Model learns patterns
+Output: Predicts the price of a new house
+
+Common Applications:
+
+Recommendation systems (Netflix, YouTube)
+Spam email detection
+Face recognition
+Chatbots and LLMs
+Fraud detection
